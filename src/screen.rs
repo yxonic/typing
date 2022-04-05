@@ -1,0 +1,2 @@
+struct Screen;
+impl Screen {}
